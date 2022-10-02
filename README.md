@@ -1,3 +1,3 @@
 # Scooby
-Frst repository on GitHub.
+Trying first repository on GitHub.
 I love :dog:, :coffee: and :pizza:.
